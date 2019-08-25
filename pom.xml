@@ -73,6 +73,7 @@
         </plugins>
 
         <resources>
+<!--            一共分为两部分，一部分公共文件，还有一部分各环境文件-->
 <!--            公共文件，message.properties-->
             <resource>
                 <directory>src/main/resources/</directory>
