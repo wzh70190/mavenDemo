@@ -27,4 +27,7 @@ public class GupaoMojo extends AbstractMojo {
         System.out.println("gupaoedu plugin  !!!" + options);
         System.out.println("gupaoedu plugin  !!!" + args);
     }
+
+
+
 }
