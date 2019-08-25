@@ -36,8 +36,13 @@
     <!--            </plugin>-->
     <!--        </plugins>-->
     <!--    </build>-->
+
+
+<!--    ${project.basedir}-->
+<!--    递归文件的作业-->
     <build>
         <plugins>
+<!--package -Dargs=123-->
             <plugin>
                 <groupId>com.gupao</groupId>
                 <artifactId>gupao-plugin</artifactId>
