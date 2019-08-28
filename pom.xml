@@ -9,6 +9,7 @@
     <version>1.0-SNAPSHOT</version>
 <!--    <version>1.0-RELEASE</version>-->
     <packaging>maven-plugin</packaging>
+<!--    切换变量-->
     <profiles>
         <profile>
             <id>dev</id>
